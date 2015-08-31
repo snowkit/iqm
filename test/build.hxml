@@ -1,0 +1,4 @@
+-main Test
+-x iqmtest
+-cp ../
+-resource mrfixit.iqm@mrfixit.iqm
