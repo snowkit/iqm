@@ -14,7 +14,7 @@ haxelib git https://github.com/snowkit/iqm.git
 
 ### Run the test
 
-`cd test/`
+`cd test/`   
 `haxe build.xml`
 
 ### License
