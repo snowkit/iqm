@@ -1,6 +1,6 @@
 # iqm
 
-Importer for IQM binary mesh format.
+Importer for IQM binary mesh format.   
 See https://github.com/lsalzman/iqm
 
 **port to haxe by**
